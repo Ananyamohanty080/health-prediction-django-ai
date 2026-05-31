@@ -1,0 +1,11 @@
+glucose,haemoglobin,cholesterol,risk
+90,14,170,Normal
+95,13,180,Normal
+100,12,190,Normal
+150,12,200,Diabetes Risk
+160,11,220,Diabetes Risk
+180,10,250,Diabetes Risk
+100,9,180,Anaemia Risk
+110,8,190,Anaemia Risk
+120,10,260,Cholesterol Risk
+130,11,270,Cholesterol Risk
